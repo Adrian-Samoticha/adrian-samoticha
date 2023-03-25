@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=adrian-samoticha&color=red&style=plastic&label=Profile+views+since+March+2023)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrian-samoticha&count_private=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=90,ffffff,ffffff,f9fcfe&text_color=414153)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-samoticha&langs_count=10&layout=compact&bg_color=90,ffffff,ffffff,f9fcfe&text_color=414153)](https://github.com/anuraghazra/github-readme-stats)
